@@ -5,9 +5,14 @@
 
 ### About Me
 
-I'm Mounir Ahmed, a talented and dedicated front-end developer specializing in React.js. With over three years of professional experience, I've honed my skills in building dynamic, responsive, and user-friendly web applications. My expertise spans various modern web technologies, and I am always eager to learn and adapt to new challenges.
-
-I am deeply interested in creating seamless user experiences and leveraging the latest web technologies to bring ideas to life. Whether working independently or as part of a collaborative team, I strive to write clean, efficient, and maintainable code.
+As a dedicated front-end developer, I bring over three years of hands-on experience in crafting
+exceptional user interfaces with proficiency in HTML, CSS, and JavaScript. My expertise extends to
+leveraging modern frameworks such as React.js, Redux, and React Query to create dynamic and
+responsive web applications.
+Throughout my career, I have demonstrated a strong passion for front-end development,
+consistently seeking to stay updated with the latest trends and technologies in the field. My
+proficiency in CSS allows me to efficiently design and style web components, ensuring both
+aesthetic appeal and optimal performance.
 
 - 🌱 I’m currently exploring Next.js advanced React patterns and state management techniques.
 - 💼 I’m looking for opportunities to contribute to impactful projects and grow as a developer.
