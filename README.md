@@ -31,6 +31,9 @@ aesthetic appeal and optimal performance.
   <a href="https://wa.me/+201157381553" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" />
   </a>
+    <a href="https://instagram.com/mounir788" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mounir788" height="30" width="40" />
+  </a>
 </p>
 
 ---
@@ -85,7 +88,7 @@ aesthetic appeal and optimal performance.
 <summary><b>🏆 Github Trophies</b></summary>
 <br>
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mounir788&theme=radical&no-frame=true&no-bg=true" alt="ahmedelsayed265" />
+<img src="https://github-profile-trophy.vercel.app/?username=mounir788&theme=radical&no-frame=true&no-bg=true" alt="mounir788" />
 </p>
 </details>
 
@@ -93,8 +96,8 @@ aesthetic appeal and optimal performance.
 <summary><b>⚡ Github Public Stats</b></summary>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mounir788&show_icons=true&theme=radical&count_private=true" alt="ahmedelsayed265" width="420"/>&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mounir788&layout=compact&theme=radical" alt="ahmedelsayed265" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=mounir788&show_icons=true&theme=radical&count_private=true" alt="mounir788" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mounir788&layout=compact&theme=radical" alt="mounir788" height="165">
 </p>
 </details>
 
