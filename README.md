@@ -9,6 +9,8 @@ As a dedicated front-end developer, I bring over three years of hands-on experie
 exceptional user interfaces with proficiency in HTML, CSS, and JavaScript. My expertise extends to
 leveraging modern frameworks such as React.js, Redux, and React Query to create dynamic and
 responsive web applications.
+
+
 Throughout my career, I have demonstrated a strong passion for front-end development,
 consistently seeking to stay updated with the latest trends and technologies in the field. My
 proficiency in CSS allows me to efficiently design and style web components, ensuring both
