@@ -10,7 +10,6 @@ exceptional user interfaces with proficiency in HTML, CSS, and JavaScript. My ex
 leveraging modern frameworks such as React.js, Redux, and React Query to create dynamic and
 responsive web applications.
 
-
 Throughout my career, I have demonstrated a strong passion for front-end development,
 consistently seeking to stay updated with the latest trends and technologies in the field. My
 proficiency in CSS allows me to efficiently design and style web components, ensuring both
@@ -18,7 +17,8 @@ aesthetic appeal and optimal performance.
 
 - 🌱 I’m currently exploring Next.js advanced React patterns and state management techniques.
 - 💼 I’m looking for opportunities to contribute to impactful projects and grow as a developer.
-- 💋 How to reach me **mounerelgazzar@gmail.com**
+- 💻 Check out my website: [www.mounirahmed.dev](https://www.mounirahmed.dev/)
+- 💋 How to reach me **mounirahmed.dev@gmail.com**
 
 ---
 
@@ -31,10 +31,14 @@ aesthetic appeal and optimal performance.
   <a href="https://wa.me/+201157381553" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="whatsapp" height="30" width="40" />
   </a>
-    <a href="https://instagram.com/mounir788" target="blank">
+  <a href="https://instagram.com/mounir788" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mounir788" height="30" width="40" />
   </a>
+  <a href="https://www.mounirahmed.dev" target="blank">
+    <img align="center" src="https://img.shields.io/badge/-Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" height="30" />
+  </a>
 </p>
+
 
 ---
 <br>
